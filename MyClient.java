@@ -1,4 +1,6 @@
 package newProjects;
+import java.io.*;
+import java.net.*;
 
 public class MyClient 
 {
